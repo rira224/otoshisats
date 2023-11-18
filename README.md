@@ -1,2 +1,2 @@
 # otoshisats
-otoshi-sats
+otoshi-sats is Japanese traditional "Otoshidama" by Lightning payment.
